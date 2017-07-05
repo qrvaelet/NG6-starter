@@ -1,0 +1,23 @@
+{
+    "title": "Perfect Girls",
+    "description": "Something went wrong...",
+    "ingredients": [{
+        "name": "sugar",
+        "quantity": 4,
+        "unit": "gramms"
+    },
+    {
+        "name": "spice",
+        "quantity": 8,
+        "unit": "mililitre"
+    },
+    {
+        "name": "everything nice",
+        "quantity": 3,
+        "unit": "pinch"
+    }],
+    "time": 35,
+    "difficulty": 3,
+    "steps": ["mix","bake"],
+    "submitter": "Pasta Baker"
+}
